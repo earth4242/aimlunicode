@@ -1,0 +1,30 @@
+{
+  "READ ME": "README.md",
+  "name": "aimlunicode",
+  "version": "1.0.0",
+  "description": "AIML Unicode for Node.js which supports non-English language (now it is only Thai) based on aimlinterpreter and aimlparser. This is the upgrade version of aimlparser. There are some bugs appeared in the latest version of AIML Intepreter and AIML Parser but already fixed in this npm package. See more on my GITHUB",
+  "main": "AIMLUnicode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenophakhawat/aimlunicode.git"
+  },
+  "author": "Phakhawat Chullamonthon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenophakhawat/aimlunicode/issues"
+  },
+  "dependencies": {
+    "dom-js": "0.0.9"
+  },
+  "homepage": "https://github.com/zenophakhawat/aimlunicode#readme",
+  "keywords": [
+    "aiml",
+    "ai",
+    "interpreter",
+    "bot",
+    "aimlthai"
+  ]
+}
